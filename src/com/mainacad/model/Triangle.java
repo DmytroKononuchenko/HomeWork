@@ -14,6 +14,7 @@ public class Triangle extends AbstractShape{
         this.base = base;
     }
 
+
     public double getHeigth() {
         return heigth;
     }

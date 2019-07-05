@@ -4,6 +4,7 @@ public class Square extends AbstractShape{
 
     private double side;
 
+
     public double getSide() {
         return side;
     }

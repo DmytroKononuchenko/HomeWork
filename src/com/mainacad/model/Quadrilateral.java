@@ -8,6 +8,7 @@ public class Quadrilateral extends Square{
         return base;
     }
 
+
     public void setBase(double base) {
         this.base = base;
     }
